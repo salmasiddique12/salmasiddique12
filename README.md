@@ -151,8 +151,7 @@ I use GitHub as my personal programming notebook.
 
 # 🧠 DSA Journey
 
-```text
-                    DSA JOURNEY
+```text                    DSA JOURNEY
                          │
                          ↓
                  Problem Solving
@@ -160,8 +159,11 @@ I use GitHub as my personal programming notebook.
           ┌──────────────┼──────────────┐
           ↓              ↓              ↓
         Arrays         Strings       Linked List
-          │              │              │
-          └──────────────┼──────────────┘
+          │
+          ↓
+     Binary Search
+          │
+          └──────────────┬──────────────┘
                          ↓
                   Stack & Queue
                          ↓
